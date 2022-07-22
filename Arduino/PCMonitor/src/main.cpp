@@ -4,7 +4,7 @@
 
 #define NEED_DATA 1
 #define NO_NEED 0
-//数组在声明时 数字表示总元素数量。不是末尾元素的index。。。。
+
 //数据：1、CPU Temperature Avg 2、CPU Load Total  3、RAM Load 4、RAM Used 5、RAM Free  6、GPU Temp 7、GPU Load
 #define DATA_LEN 7
 
