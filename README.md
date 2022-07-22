@@ -8,3 +8,7 @@ Python代码参考该项目 LibreHardwareMonitor/TestScripts/basicrest.py
 
 
 因为是校园网所以用串口传输数据的方案
+
+TODO:
+触摸屏 & 更新UI
+Python上位机
