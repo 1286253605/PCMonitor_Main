@@ -3,6 +3,7 @@ Platformio+Arduino+LVGL8+Python的PC性能监控
 
 
 首先需要获得软件-> https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+
 Python代码参考该项目 LibreHardwareMonitor/TestScripts/basicrest.py
 
 
