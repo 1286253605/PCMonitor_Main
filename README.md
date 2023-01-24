@@ -12,3 +12,5 @@ Python代码参考该项目 LibreHardwareMonitor/TestScripts/basicrest.py
 TODO:
 触摸屏 & 更新UI
 Python上位机
+
+烂中烂 想删了
